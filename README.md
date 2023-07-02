@@ -10,9 +10,9 @@ Themes for the Mozilla Firefox browser curated by Passion-Lab with curiosity. Do
 
 ### 🎨 Themes are:
 
-1. 3D Radiant Spiral Minimal Dark Theme **v1.0** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/3d-radiant-spiral-dark-theme/)
+1. 3D Radiant Spiral Minimal Dark Theme **v2.2** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/3d-radiant-spiral-dark-theme/)
 
-    [![Visual](https://addons.mozilla.org/user-media/version-previews/full/3950/3950194.png?modified=1686743925)](https://addons.mozilla.org/en-US/firefox/addon/3d-radiant-spiral-dark-theme/)<br><br>
+    [![Visual](https://addons.mozilla.org/user-media/version-previews/full/3952/3952384.png?modified=1688314992)](https://addons.mozilla.org/en-US/firefox/addon/3d-radiant-spiral-dark-theme/)<br><br>
 
 3. Cyber Blue Gradient Minimal Theme **v1.0** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/cyber-blue-gradient-minimal/)
 
