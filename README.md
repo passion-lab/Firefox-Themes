@@ -14,9 +14,13 @@ Themes for the Mozilla Firefox browser curated by Passion-Lab with curiosity. Do
 
     [![Visual](https://addons.mozilla.org/user-media/version-previews/full/3952/3952384.png?modified=1688314992)](https://addons.mozilla.org/en-US/firefox/addon/3d-radiant-spiral-dark-theme/)<br><br>
 
-3. Cyber Blue Gradient Minimal Theme **v1.1** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/cyber-blue-gradient-minimal/)
+2. Cyber Blue Gradient Minimal Theme **v1.1** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/cyber-blue-gradient-minimal/)
 
     [![Visual](https://addons.mozilla.org/user-media/version-previews/full/3950/3950338.png?modified=1686825875)](https://addons.mozilla.org/en-US/firefox/addon/cyber-blue-gradient-minimal/)<br><br>
+
+3. Reading Books Minimal Light Theme **v1.0** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/read-books-minimal-light-theme/)
+
+    [![Visual](https://addons.mozilla.org/user-media/version-previews/full/3952/3952544.png?modified=1688447394)](https://addons.mozilla.org/en-US/firefox/addon/read-books-minimal-light-theme/)<br><br>
 
 
 <br>
