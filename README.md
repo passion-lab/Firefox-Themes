@@ -30,8 +30,6 @@ Themes for the Mozilla Firefox browser curated by Passion-Lab with curiosity. Do
 
     [![Visual](https://addons.mozilla.org/user-media/version-previews/full/4018/4018945.svg?modified=1729154356)](https://addons.mozilla.org/en-US/firefox/addon/amoled-pure-black-minimal/)<br><br>
 
-<br>
-
 6. 3D SNAIL BLUE Minimal Theme **v1.0** | [TRY IT](https://addons.mozilla.org/en-US/firefox/addon/3d-snail-blue-minimal-theme/)
 
     [![Visual](https://addons.mozilla.org/user-media/version-previews/full/4018/4018925.svg?modified=1729153427)](https://addons.mozilla.org/en-US/firefox/addon/3d-snail-blue-minimal-theme/)<br><br>
